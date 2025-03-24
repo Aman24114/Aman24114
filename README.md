@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in Tech Stacks like Next Js<br>Typescript , Express , Java Springboot
+Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in Web Development <br> and Problem Solving
 
 
 ## 🌐 Socials:
