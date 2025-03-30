@@ -5,9 +5,8 @@ Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in W
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as920139.amanpreetsingh@gmail.com) 
 
-## 💼 Technical Skills:
-![43572101]
 
+## 💼 Technical Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,js,kotlin,mongodb,html,ts,npm,visualstudio,react,replit,py,pr,postman,nodemon,wordpress,next" />
