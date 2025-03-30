@@ -12,7 +12,7 @@ Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in W
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman24114&theme=dark&hide_border=false)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_Aman_24?theme=dark&font=Poppins&ext=heatmap)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman24114&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman24114&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
-
+![Visitors](https://moe-counter.glitch.me/get/@Aman24114?theme=rule34)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
