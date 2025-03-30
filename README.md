@@ -6,7 +6,7 @@ Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in W
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as920139.amanpreetsingh@gmail.com) 
 
 ## 💼 Technical Skills:
-![43572101](https://github.com/user-attachments/assets/8e4b7be1-d670-4e67-8ad1-d96aaa678849)
+![43572101]
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,6 +15,7 @@ Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in W
 </p>
 
 <br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman24114&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman24114&theme=dark&hide_border=false)<br/>
