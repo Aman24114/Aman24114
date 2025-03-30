@@ -10,7 +10,8 @@ Hi , I am Amanpreet Singh<br>I am a Tech Enthusiast , profoundly interested in W
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aman24114&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Aman24114&theme=dark&hide_border=false)<br/>
-![](https://leetcard.jacoblin.cool/_Aman_24?ext=contest)<br/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/_Aman_24?theme=dark&font=Poppins&ext=heatmap)
+<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman24114&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
