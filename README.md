@@ -50,10 +50,6 @@ Hi, I’m **Amanpreet Singh** 👋
 ## 📈 Competitive Programming:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Amanpreet_24?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/Amanpreet_24/)  
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Amanpreet_24)](https://codeforces.com/profile/Amanpreet_24)  
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/as920139amanlmf5/)  
-
 ---
 
 ![Visitors](https://moe-counter.glitch.me/get/@Aman24114?theme=rule34)  
