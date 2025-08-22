@@ -12,6 +12,8 @@ Hi, I’m **Amanpreet Singh** 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpreet-singh-a40413223/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Aman24114)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Amanpreet_24/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amanpreet_24)   
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/as920139amanlmf5/) 
 
 ---
 
@@ -46,9 +48,12 @@ Hi, I’m **Amanpreet Singh** 👋
 ---
 
 ## 📈 Competitive Programming:
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amanpreet_24?theme=dark&font=Poppins&ext=heatmap)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amanpreet_24)   
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amanpreet_24?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/Amanpreet_24/)  
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Amanpreet_24)](https://codeforces.com/profile/Amanpreet_24)  
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/as920139amanlmf5/)  
+
 ---
 
 ![Visitors](https://moe-counter.glitch.me/get/@Aman24114?theme=rule34)  
