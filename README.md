@@ -1,19 +1,19 @@
 # 💫 About Me:
 Hi, I’m **Amanpreet Singh** 👋  
-🎓 B.Tech student in Electronics & Communication Engineering at **NIT Jamshedpur**  
+🎓 B.Tech student in **Electronics & Communication Engineering** at *NIT Jamshedpur*  
 💻 Tech Enthusiast passionate about **Web Development** & **Problem-Solving**  
 ⚡ Competitive Programmer with top global ranks on **Codeforces, LeetCode & CodeChef**  
-🚀 Always exploring the intersection of **engineering, algorithms, and scalable systems**  
+🚀 Always exploring the intersection of **engineering, algorithms, and scalable systems**
 
 ---
 
 ## 🌐 Connect with Me:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as920139.amanpreetsingh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpreet-singh-a40413223/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Aman24114)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/_zephyros_/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amanpreet_24)   
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amanpreet24/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:as920139.amanpreetsingh@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanpreet-singh-a40413223/)  
+[![GitHub](https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white)](https://github.com/Aman24114)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/_zephyros_/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Amanpreet_24)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/amanpreet24/)  
 
 ---
 
@@ -48,8 +48,8 @@ Hi, I’m **Amanpreet Singh** 👋
 ---
 
 ## 📈 Competitive Programming:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Amanpreet_24?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/Amanpreet_24/)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/_zephyros_?theme=dark&font=Poppins&ext=heatmap)](https://leetcode.com/u/_zephyros_/)
 
 ---
 
-![Visitors](https://moe-counter.glitch.me/get/@Aman24114?theme=rule34)  
+![Visitors](https://moe-counter.glitch.me/get/@Aman24114?theme=rule34)
